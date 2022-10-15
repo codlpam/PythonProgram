@@ -1,0 +1,13 @@
+Hm001,6,Frankton,42305.67
+Hm002,10,Glenview,21922.22
+Hm003,7,Silverdale,63277.9
+Hm004,13,Glenview,83290.09
+Hm005,21,Queenwood,81301.82
+Hm006,14,Hillcrest,62333.3
+Hm007,7,Frankton,28998.8
+Hm008,19,Chartwell,51083.5
+Hm009,6,Glenview,62155.72
+Hm0010,8,Enderley,33075.1
+Hm0011,10,Fairfield,61824.7
+Hm0012,11,Fairfield,62804.7
+Hm0013,15,Rototuna,21804.8
